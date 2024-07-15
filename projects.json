@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "srcImg": "/screenshots/newsletter-section-screenshot.png",
+    "altImg": "Newsletter Screenshot",
+    "title": "Newsletter Section",
+    "demoLink": "https://newsletter-section-topaz.vercel.app/"
+  },
+  {
+    "id": 2,
+    "srcImg": "/screenshots/product-details-section.png",
+    "altImg": "Product Detail Section",
+    "title": "Product Details Section",
+    "demoLink": "https://product-details-section.vercel.app/"
+  }
+]
