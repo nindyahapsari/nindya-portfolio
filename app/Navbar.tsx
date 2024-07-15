@@ -46,7 +46,7 @@ export default function Navbar() {
             </ul>
           </div>
           <div>
-            <a className="btn btn-ghost text-md desktop:text-2xl">
+            <a href="/" className="btn btn-ghost text-md desktop:text-2xl">
               Nindya Hapsari
             </a>
           </div>
