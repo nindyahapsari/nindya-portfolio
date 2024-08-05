@@ -12,5 +12,12 @@
     "altImg": "Product Detail Section",
     "title": "Product Details Section",
     "demoLink": "https://product-details-section.vercel.app/"
+  },
+  {
+    "id": 3,
+    "srcImg": "/screenshots/whisker-app.png",
+    "altImg": "Whisker App Screenshot",
+    "title": "Cat Care App",
+    "demoLink": "https://cat-assistant-chatbot.vercel.app/"
   }
 ]
